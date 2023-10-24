@@ -21,7 +21,7 @@ public:
             }
            
         }
-        maxi = max(maxi, sum);
+        // maxi = max(maxi, sum);
         return maxi;
         
     }
